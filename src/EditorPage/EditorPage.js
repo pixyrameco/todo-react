@@ -114,9 +114,6 @@ export default function EditorPage(props={}){
                             </Button>
                         </Stack>
                     </Stack>
-
-
-
                 </CardContent>
             </Card>
         </div>
